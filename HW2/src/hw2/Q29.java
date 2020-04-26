@@ -11,7 +11,5 @@ public class Q29 {
 	public static void main(String[] slam) {
 		// Proper way to instantiate an object
 		new TennisBall();
-
-		String cat, dog = "animal";
 	}
 }
