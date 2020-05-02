@@ -8,6 +8,7 @@ public class Q9 {
 
 	private static class Election {
 		public void calculateResult(Integer candidateA, Integer candidateB) {
+
 			boolean process = candidateA == null || candidateA.intValue() < 10;
 
 			/*
